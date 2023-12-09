@@ -8,8 +8,19 @@ A comprehensive login and registration system for an Android application. This a
 2. Navigate to the Project: Once cloned, users should navigate to the project directory using the terminal.
 3. Install Dependencies: Running the ```flutter pub get``` command installs all necessary dependencies, ensuring a hassle-free setup.
 4. Mobile Device Connection: To optimize the experience, users are encouraged to connect their mobile devices via USB tethering and execute ```flutter run``` to view the application on their devices.
+5. 5. Build APK: To build the APK of the application, run the command ```flutter build apk```.
 
 But before running ```flutter run``` command, if you want to access the database, you need to change many variables in AndroidManifest.xml, strings.xml, Info.plist and client id in auth_services.dart files.
+
+# Development Environment
+Flutter SDK: Software development kit for building Flutter applications.
+IDE: Visual Studio Code or IntelliJ IDEA with Dart and Flutter plugins.
+Firebase SDK: Integration of Firebase services into the app.
+Programming Language -> Dart: Flutter app development
+
+# References
+<a href="https://docs.flutter.dev/" target="_blank">Flutter Documentation</a>
+<a href="https://firebase.google.com/docs" target="_blank">Firebase Documentation</a>
 
 
 # *SignIn Page:*
