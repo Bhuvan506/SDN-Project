@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">SDN-Project</string>
+    <string name="facebook_app_id">1032699974702462</string>
+    <string name="fb_login_protocol_scheme">fb1032699974702462</string>
+    <string name="facebook_client_token">aff46adf58dfbe511d92b913c9ba4862</string>
+</resources>

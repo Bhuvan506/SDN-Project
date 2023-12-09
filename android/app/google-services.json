@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586118175285",
+    "project_id": "authentication-mbapp",
+    "storage_bucket": "authentication-mbapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586118175285:android:a5822d44d7611bd9272f7c",
+        "android_client_info": {
+          "package_name": "com.example.sdn_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB18KkXyUpw4QpBe5AVjin-0kuOatkgd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
